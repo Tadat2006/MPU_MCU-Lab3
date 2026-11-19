@@ -1,0 +1,10 @@
+traffic.c:16:16:duration_of	16	static
+traffic.c:22:16:next_of	16	static
+traffic.c:28:16:current_value_of_mode	16	static
+traffic.c:36:13:normalize_durations	4	static
+traffic.c:50:13:apply_set	16	static
+traffic.c:81:13:normal_reset	8	static
+traffic.c:87:13:enter_mode	16	static
+traffic.c:100:13:road_step	16	static
+traffic.c:108:6:traffic_init	8	static
+traffic.c:113:6:traffic_run	16	static
